@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable button_design
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id centerline
+id centerline2
+id centerline3
+id email
+id forgotpassword
+id gobacktologin
+id gotoforgotpassword
+id gotologin
+id gotosignup
+id login
+id loginemail
+id loginpassword
+id password
+id passwordrecoverbutton
+id progressbarofmainactivity
+id signup
+id signupemail
+id signuppassword
+layout activity_forgotpassword
+layout activity_main
+layout activity_signup
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.NotetakingApp
+style Theme.NotetakingApp
+xml backup_rules
+xml data_extraction_rules
